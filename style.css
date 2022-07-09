@@ -1,0 +1,215 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.rectangle{
+    position: relative;
+    margin-bottom: 100px;
+}
+.rectangle img{
+   width:100%;
+   height: 1000px;
+   
+}
+.zakat{
+    position: absolute;
+    color: black;
+    top: 25%;
+    left:20%
+    
+}
+.zakat h1{
+    font-size: 90px;
+    width: 60%;
+    margin-bottom: 30px;
+}
+.zakat h1 span{
+    color: orange;
+}
+.zakat p{
+    font-size: 30px;
+    width: 50%;
+    margin-bottom: 50px;
+    color: grey;
+}
+.zakat a{
+    text-decoration: none;
+    color: white;
+    background-color: #EF233C;
+    padding: 20px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+.donation{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    margin-bottom: 100px;
+}
+.their-live{
+    width: 35%;  
+}
+.their-live h1{
+    font-size: 60px;
+    margin-bottom: 40px;
+}
+.their-live p{
+    font-size:30px;
+    color: grey;
+    margin-bottom: 50px;
+}
+.their-live a{
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    background-color: #EF233C;
+    padding: 15px;
+    border-radius: 10px;
+}
+.midle-section{
+    width: 70%;
+    margin-bottom: 100px;
+}
+.midle-section h1{
+    font-size: 60px;
+    margin-left: 50%;
+    margin-bottom: 40px;
+}
+.midle-section span{
+    margin-left: 16%;
+}
+.midle-section p{
+    font-size: 30px;
+    color: grey;
+    width: 50%;
+    margin-left: 49%;
+}
+.direct-help{
+    margin-bottom: 100px;
+}
+.under-direct{
+    display: flex;
+    justify-content: space-around;
+}
+.under-direct div{
+    background-color: #fadadd;
+    width: 30%; 
+    padding: 50px;
+    border-radius: 10px;
+}
+.under-direct div img{
+    height: 40%;
+    margin-top: 10%;
+}
+.under-direct div>div{
+    width: 90%;
+}
+.under-direct div>div>h2,p{
+    margin-bottom: 20px;
+}
+.frame{
+    display: flex;
+}
+.donation-gellary{
+    margin-bottom: 50px;
+    font-size: 40px;
+    text-align: center;
+}
+.image-gellary{
+    display: flex;
+    justify-content: space-around;
+}
+.image-gellary img{
+    width: 364px;
+    height: 391px;
+    border-radius: 10px;
+}
+.dual-gellary{
+    margin-bottom: 100px;
+}
+.midle-section1{
+    width: 45%;
+    margin-bottom: 100px;
+    margin-left: 30%;
+}
+.midle-section1 h1{
+    font-size: 60px;
+    margin-bottom: 40px;
+}
+
+.midle-section1 p{
+    font-size: 30px;
+    color: grey;
+    width: 90%;
+}
+.three-div{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 100px;
+}
+.three-div div{
+    margin-left: 50px;
+    width: 364px;
+    height: 481px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.three-div img{
+    width: 360px;
+    height: 211px;
+}
+.three-div h1{
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.three-div p{
+    margin: 0 20px 20px 20px;
+    font-size: 18px;
+    color: grey;
+}
+.three-div a{
+    text-decoration: none;
+    font-size: 22px;
+    color: white;
+    background-color: #EF233C;
+    padding: 5px 10px 5px 10px;
+    border-radius: 10px;
+    margin-left: 15px;
+}
+.footer-distributed{
+    background: black;
+    text-align: center;
+    padding: 55px 50px;
+  }
+   .footer{
+    width: 100%;
+  }
+  .footer-distributed h3{
+    color:  #ffffff;
+    font:36px;
+    margin: 0;
+    font-size: 30px;
+  }
+  .footer-distributed h3 span{
+    color: orange;
+  }
+ .footer-links{
+    color:  #ffffff;
+    margin: 20px 0 12px;
+    padding: 0;
+  }
+  
+  .footer-links a{
+    display:inline-block;
+    line-height: 1.8;
+    font-weight:400;
+    text-decoration: none;
+    color:  inherit;
+  }
+  
+  .copy-right{
+    color:  #222;
+    font-size: 20px;
+    margin: 0;
+  }
